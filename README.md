@@ -9,7 +9,7 @@ On top of that it should be able platform independent, so it is not restricted t
 
 ## Used Technologies ##
 
-* Docker
+* Docker (incl. Docker-compose)
 * Angular
 
 ## Usage ##
