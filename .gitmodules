@@ -1,0 +1,3 @@
+[submodule "docker-smw-configurator"]
+	path = docker-smw-configurator
+	url = https://github.com/RaphaelManke/docker-smw-configurator.git
