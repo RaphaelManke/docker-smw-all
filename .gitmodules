@@ -1,9 +1,11 @@
 [submodule "docker-smw-configurator"]
 	path = docker-smw-configurator
 	url = https://github.com/RaphaelManke/docker-smw-configurator.git
+	branch = master
 [submodule "docker-semantic-mediawiki-stack"]
 	path = docker-semantic-mediawiki-stack
 	url = https://github.com/RaphaelManke/docker-semantic-mediawiki-stack.git
+	branch = master
 [submodule "docker-semantic-mediawiki"]
 	path = docker-semantic-mediawiki
 	url = https://github.com/RaphaelManke/docker-semantic-mediawiki.git
