@@ -1,9 +1,0 @@
-# Files
-docker-compose-local.yml
-LocalSettings*.php
-composer.json
-extension*.json
-
-# Directories
-docker-entrypoint-initdb.d/*
-aifbportal3
