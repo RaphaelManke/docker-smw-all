@@ -1,0 +1,13 @@
+php maintenance/install.php \
+--dbname=my_wiki \
+--dbserver="database" \
+--installdbuser=wikiuser \
+--installdbpass=example \
+--dbuser=wikiuser \
+--dbpass=example \
+--server="http://localhost:8080" \
+--scriptpath="" \
+--lang=en \
+--pass=smw-docker \
+"Example Semantik Media Wiki" \
+"Admin"

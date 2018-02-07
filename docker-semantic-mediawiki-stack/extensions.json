@@ -1,0 +1,34 @@
+{
+  "extensions" : [
+    {
+      "name" : "OOJsUIAjaxLogin",
+      "url" : "https://gerrit.wikimedia.org/r/p/mediawiki/extensions/OOJsUIAjaxLogin.git",
+      "help" : "https://www.mediawiki.org/wiki/Extension:OOJsUIAjaxLogin"
+    },
+    {
+      "name" : "Babel",
+      "url" : "https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Babel.git",
+      "help" : "https://www.mediawiki.org/wiki/Extension:Babel"
+    }
+  ],
+  "skins" : [
+    {
+      "name" : "DeskMessMirrored",
+      "url" : "https://github.com/wikimedia/mediawiki-skins-DeskMessMirrored",
+      "help" : "https://www.mediawiki.org/wiki/Skin:DeskMessMirrored",
+      "default" : 1
+    },
+    {
+      "name" : "Gamepress",
+      "url" : "https://gerrit.wikimedia.org/r/mediawiki/skins/Gamepress",
+      "help" : "https://www.mediawiki.org/wiki/Skin:Gamepress",
+      "default" : 0
+    },
+    {
+      "name" : "MediaWikiBootstrap",
+      "url" : "https://github.com/nasirkhan/mediawiki-bootstrap",
+      "help" : "https://www.mediawiki.org/wiki/Skin:MediaWikiBootstrap",
+      "default" : 0
+    }
+  ]
+}
